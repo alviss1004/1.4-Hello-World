@@ -1,4 +1,4 @@
-# 1.4-Hello-World
+# Intro to Github and Netlify
 A learning project @CoderSchool.vn
 ## Student: Binh Nguyen
 ### Features:
