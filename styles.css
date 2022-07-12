@@ -1,0 +1,8 @@
+h1 {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.color {
+  color: rgb(28, 156, 185);
+}
