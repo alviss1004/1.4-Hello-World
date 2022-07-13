@@ -1,8 +1,3 @@
-h1 {
-  display: inline-block;
-  margin-right: 10px;
-}
-
-.color {
+.title span{
   color: rgb(28, 156, 185);
 }
